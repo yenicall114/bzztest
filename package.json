@@ -1,0 +1,23 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenicall114/dockertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenicall114/dockertest/issues"
+  },
+  "homepage": "https://github.com/yenicall114/dockertest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
